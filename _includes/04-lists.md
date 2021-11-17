@@ -3,6 +3,7 @@ a list of favorite emoji
 - 🐈‍⬛
 - 🌻
 - 🧒
+- 🥉
 - 💻
 
 
